@@ -8,7 +8,7 @@ To gain hands-on experience with VPNs, understand how they secure communication,
 ## 🔍 Steps Taken  
 1. Installed **ProtonVPN Free**.  
 2. Created a free account and logged in.  
-3. Connected to a server in [Server Location].  
+3. Connected to a server in Japan.  
 4. Verified new IP using [whatismyipaddress.com](https://whatismyipaddress.com).  
 5. Browsed websites to confirm encryption and connectivity.  
 6. Disconnected and compared speed and IP.  
@@ -16,8 +16,8 @@ To gain hands-on experience with VPNs, understand how they secure communication,
 ---
 
 ## 📂 Results  
-- **Before VPN:** IP showed as [Your Original Location].  
-- **After VPN:** IP changed to [VPN Server Location].  
+- **Before VPN:** IP showed as 223.186.196.122.  
+- **After VPN:** IP changed to 212.102.51.63.  
 - **Connection Status:** Verified via ProtonVPN client screenshot.  
 - **Speed Impact:** Slight reduction in browsing speed, but stable connection.  
 
@@ -33,13 +33,13 @@ To gain hands-on experience with VPNs, understand how they secure communication,
 
 ## 📂 Deliverables  
 - Screenshot of VPN connected status.  
-- Screenshot of changed IP (optional).  
+- Screenshot of changed IP .  
 - This README report.  
 
 ---
 
 ## 🔗 Submission  
-- **GitHub Repository:** *[Add your repo link here]*  
+- **GitHub Repository:**[https://github.com/Bhuvan-2506/Elevate_task8/] **  
 - **Submission Form:** [Submit Here](https://forms.gle/8Gm83s53KbyXs3Ne9)  
 
 ---
